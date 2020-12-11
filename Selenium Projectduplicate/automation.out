@@ -1,0 +1,24 @@
+initialising the dependency files...... 
+Opening the browser :-chrome
+Navigated to :- https://www.amazon.in
+Selected the option books by using the locator :- searchDropdownBox
+Entered the test Harry Potter by using locator :- null
+Clicked on search button by using locator :- //header/div[@id='navbar']/div[@id='nav-belt']/div[2]/div[1]/form[1]/div[3]/div[1]/span[1]/input[1]
+initialising the dependency files...... 
+Opening the browser :-chrome
+Navigated to :- https://www.amazon.in
+Selected the option books by using the locator :- searchDropdownBox
+Entered the test Harry Potter by using locator :- null
+Clicked on search button by using locator :- //header/div[@id='navbar']/div[@id='nav-belt']/div[2]/div[1]/form[1]/div[3]/div[1]/span[1]/input[1]
+initialising the dependency files...... 
+Opening the browser :-chrome
+Navigated to :- https://www.amazon.in
+Selected the option books by using the locator :- searchDropdownBox
+Entered the test Harry Potter by using locator :- twotabsearchtextbox
+Clicked on search button by using locator :- //header/div[@id='navbar']/div[@id='nav-belt']/div[2]/div[1]/form[1]/div[3]/div[1]/span[1]/input[1]
+initialising the dependency files...... 
+Opening the browser :-chrome
+Navigated to :- https://www.amazon.in
+Selected the option books by using the locator :- searchDropdownBox
+Entered the test Harry Potter by using locator :- twotabsearchtextbox
+Clicked on search button by using locator :- //header/div[@id='navbar']/div[@id='nav-belt']/div[2]/div[1]/form[1]/div[3]/div[1]/span[1]/input[1]
